@@ -1,4 +1,5 @@
-# DSofiigit checkout -b feature_x
+# DSofii
+git checkout -b feature_x
 
 git checkout main
 git checkout -b feature_x
